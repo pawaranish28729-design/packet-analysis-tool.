@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+captures/*.pcap
+captures/*.pcapng
+!captures/test_anomalies.pcap
+reports/*.html
